@@ -3,10 +3,14 @@ author: Alec Jacobson
 html header:   
 css: style.css
 
-# Generalized Matryoshka: Computational Design of Nesting Objects
+# Generalized Matryoshka: Computational Design of Nesting Objects _SGP 2017_
 
 <div class=authors>
-Alec Jacobson, University of Toronto
+
+Alec Jacobson
+
+University of Toronto
+
 </div>
 
 ![](matryoshka-teaser.jpg)
