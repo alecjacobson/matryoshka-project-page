@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Generalized Matryoshka: Computational Design of Nesting Objects</title>
+	<meta name="author" content="Alec Jacobson"/>
+
+	<link type="text/css" rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<h1 id="generalizedmatryoshka:computationaldesignofnestingobjects">Generalized Matryoshka: Computational Design of Nesting Objects</h1>
+<div class=authors>
+Alec Jacobson, University of Toronto
+</div>
+
+<figure>
+<img src="matryoshka-teaser.jpg" alt="" />
+</figure>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>This paper generalizes the self-similar nesting of <em>Matryoshka</em> dolls (&#8220;Russian
+nesting dolls&#8221;) to arbitrary solid objects. We introduce the problem of finding
+the largest scale replica of an object that <em>nests</em> inside itself. Not only
+should the nesting object fit inside the larger copy without interpenetration,
+but also it should be possible to cut the larger copy in two and remove the
+smaller object without collisions. We present a GPU-accelerated evaluation of
+nesting feasibility. This test can be conducted at interactive rates, providing
+feedback during manual design. Further, we may optimize for some or all of the
+nesting degrees of freedom (e.g., rigid motion of smaller object, cut
+orientation) to maximize the smaller object&#8217;s scale while maintaining a
+feasible nesting. Our formulation and tools robustly handle imperfect geometric
+representations and generalize to the nesting of dissimilar objects in one
+another. We explore a variety of applications to aesthetic and functional shape
+design.</p>
+
+<h2 id="downloads">Downloads</h2>
+
+<ul>
+<li><a href="generalized-matryoshka-computational-design-of-nesting-objects-sgp-2017-compressed-jacobson.pdf">Paper</a></li>
+<li><a href="generalized-matryoshka-computational-design-of-nesting-objects-sgp-2017-jacobson.pdf">Paper (low res)</a></li>
+</ul>
+
+<h2 id="animations">Animations</h2>
+
+<figure>
+<img src="matryoshka-bunnies.gif" alt="" />
+</figure>
+
+<h2 id="bibtex">BibTeX</h2>
+
+<pre><code>@article{Jacobson:GM:2017,
+  title = {Generalized Matryoshka: Computational Design of Nesting Objects},
+  author = {Alec Jacobson},
+  year = {2017},
+  journal = {Computer Graphics Forum}, 
+}
+</code></pre>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>This work is funded in part by NSERC Discovery Grants (RGPIN&#8211;2017&#8211;05235 &amp;
+RGPAS&#8211;2017&#8211;507938), the Connaught Fund (NR&#8211;2016&#8211;17), and a gift by Adobe
+Systems Inc. Thank you to David Levin for illuminating discussions and Kevin
+Gibson, Masha Shugrina, Michael Tao, and Alex Tessier for early draft reviews.</p>
+
+</body>
+</html>
