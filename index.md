@@ -60,6 +60,8 @@ design.
 
 ![](matryoshka-calavera.gif)
 
+![](matryoshka-turducken.gif)
+
 ## BibTeX
 
 ```
