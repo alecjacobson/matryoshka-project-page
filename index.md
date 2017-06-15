@@ -56,6 +56,10 @@ design.
 
 ![](matryoshka-bunnies.gif)
 
+![](matryoshka-nefertiti-fred-wilson.gif)
+
+![](matryoshka-calavera.gif)
+
 ## BibTeX
 
 ```
