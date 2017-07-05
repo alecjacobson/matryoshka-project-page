@@ -51,6 +51,8 @@ design.
 
  - [Paper](generalized-matryoshka-computational-design-of-nesting-objects-sgp-2017-jacobson.pdf )
  - [Paper (low res)](generalized-matryoshka-computational-design-of-nesting-objects-sgp-2017-compressed-jacobson.pdf)
+ - [Slides](generalized-matryoshka-computational-design-of-nesting-objects-sgp-2017-slides-jacobson.pdf )
+ - [Slides (low res)](generalized-matryoshka-computational-design-of-nesting-objects-sgp-2017-slides-compressed-jacobson.pdf)
 
 ## Animations
 
