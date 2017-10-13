@@ -64,6 +64,8 @@ design.
 
 ![](matryoshka-turducken.gif)
 
+![](matryoshka-karl.gif)
+
 ## BibTeX
 
 ```
@@ -74,6 +76,9 @@ design.
   journal = {Computer Graphics Forum}, 
 }
 ```
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/_AlecJacobson">@_AlecJacobson</a> explains how to put things inside other things. <a href="https://t.co/N6itBeT8Bs">https://t.co/N6itBeT8Bs</a> <a href="https://t.co/R1RjIdj9HY">pic.twitter.com/R1RjIdj9HY</a></p>&mdash; SGP (@GeometryProcess) <a href="https://twitter.com/GeometryProcess/status/881925319871090689">July 3, 2017</a></blockquote> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Acknowledgements 
 
 This work is funded in part by NSERC Discovery Grants (RGPIN-2017-05235 &
